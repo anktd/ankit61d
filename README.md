@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I am Ankit.
-- 👀 I am interested in Computers, Internet, Bitcoins and Electricity.
+- 👀 I am interested in Computers, Internet, Bitcoin and Electricity.
 - 🌱 I am working in Blockonomics.
 - 💞️ Life is good.
 - 🧬 May the force be with you.
