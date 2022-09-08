@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I am Ankit.
-- 👀 I am interested in Competitive Programming.
-- 🌱 I am currently learning Python, Web Development.
-- 💞️ I am looking to launch my career as a Software Engineer.
-- 📫 You can reach me through linkedIn @ankit61d
+- 👀 I am interested in Computers, Internet, Bitcoins and Electricity.
+- 🌱 I am working in Blockonomics.
+- 💞️ Life is good.
+- 🧬 May the force be with you.
